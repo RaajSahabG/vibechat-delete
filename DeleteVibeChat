@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VibeChat - Delete Account Request</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #ff6347;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #333;
+      margin-top: 30px;
+    }
+    p {
+      line-height: 1.7;
+      color: #444;
+    }
+    ul {
+      margin-left: 20px;
+      line-height: 1.7;
+    }
+    .email-box {
+      padding: 12px;
+      background: #fff4f0;
+      border-left: 4px solid #ff6347;
+      margin: 20px 0;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #777;
+      font-size: 14px;
+    }
+    @media (max-width: 600px) {
+      .container {
+        margin: 20px;
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>VibeChat – Account Deletion Request</h1>
+    <p>
+      You can request deletion of your VibeChat account and all associated data at any time.
+      Follow the instructions below to initiate the deletion process.
+    </p>
+
+    <h2>How to Request Account Deletion</h2>
+    <p>To delete your account, please send an email to the support team:</p>
+
+    <div class="email-box">
+      <strong>Email:</strong> support@bizvility.com<br />
+      <strong>Subject:</strong> Delete My Account<br />
+      <strong>Required Info:</strong> Your registered email / phone number.
+    </div>
+
+    <h2>What Data Will Be Deleted?</h2>
+    <ul>
+      <li>Your account profile (name, email, phone)</li>
+      <li>Chat history stored on server</li>
+      <li>Uploaded media files</li>
+      <li>Contacts saved inside VibeChat</li>
+      <li>All linked device information</li>
+    </ul>
+
+    <h2>What Data We May Retain Temporarily</h2>
+    <p>
+      For security and fraud-prevention purposes, certain logs may be retained for up to
+      <strong>30 days</strong> after deletion:
+    </p>
+    <ul>
+      <li>System logs</li>
+      <li>Security audit logs</li>
+      <li>Spam/abuse reports</li>
+    </ul>
+
+    <h2>Processing Time</h2>
+    <p>
+      Account deletion requests are processed within <strong>7 working days</strong>.
+      You will receive a confirmation email once deletion is completed.
+    </p>
+
+    <h2>Need Help?</h2>
+    <p>
+      If you need any assistance regarding account deletion or privacy, contact:
+    </p>
+
+    <div class="email-box">
+      support@bizvility.com
+    </div>
+
+    <footer>© 2025 VibeChat. All rights reserved.</footer>
+  </div>
+</body>
+</html>
